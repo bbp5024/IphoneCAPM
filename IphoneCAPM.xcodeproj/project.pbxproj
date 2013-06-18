@@ -18,6 +18,15 @@
 		B2338E1C1770F01300586736 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B2338E1B1770F01300586736 /* Default-568h@2x.png */; };
 		B2338E1F1770F01300586736 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2338E1D1770F01300586736 /* MainStoryboard.storyboard */; };
 		B2338E221770F01300586736 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2338E211770F01300586736 /* ViewController.m */; };
+		B2510D631770F20900010FA5 /* DowStocks.txt in Resources */ = {isa = PBXBuildFile; fileRef = B2510D561770F20900010FA5 /* DowStocks.txt */; };
+		B2510D641770F20900010FA5 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = B2510D571770F20900010FA5 /* Icon-72.png */; };
+		B2510D651770F20900010FA5 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B2510D581770F20900010FA5 /* Icon-72@2x.png */; };
+		B2510D661770F20900010FA5 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B2510D591770F20900010FA5 /* Icon.png */; };
+		B2510D671770F20900010FA5 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B2510D5A1770F20900010FA5 /* Icon@2x.png */; };
+		B2510D681770F20900010FA5 /* InfoController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2510D5C1770F20900010FA5 /* InfoController.m */; };
+		B2510D691770F20900010FA5 /* InfoView.m in Sources */ = {isa = PBXBuildFile; fileRef = B2510D5E1770F20900010FA5 /* InfoView.m */; };
+		B2510D6A1770F20900010FA5 /* StatsView.m in Sources */ = {isa = PBXBuildFile; fileRef = B2510D601770F20900010FA5 /* StatsView.m */; };
+		B2510D6B1770F20900010FA5 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2510D621770F20900010FA5 /* TableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +46,19 @@
 		B2338E1E1770F01300586736 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		B2338E201770F01300586736 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		B2338E211770F01300586736 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B2510D561770F20900010FA5 /* DowStocks.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = DowStocks.txt; path = IphoneCAPM/DowStocks.txt; sourceTree = "<group>"; };
+		B2510D571770F20900010FA5 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "IphoneCAPM/Icon-72.png"; sourceTree = "<group>"; };
+		B2510D581770F20900010FA5 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "IphoneCAPM/Icon-72@2x.png"; sourceTree = "<group>"; };
+		B2510D591770F20900010FA5 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = IphoneCAPM/Icon.png; sourceTree = "<group>"; };
+		B2510D5A1770F20900010FA5 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "IphoneCAPM/Icon@2x.png"; sourceTree = "<group>"; };
+		B2510D5B1770F20900010FA5 /* InfoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoController.h; sourceTree = "<group>"; };
+		B2510D5C1770F20900010FA5 /* InfoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoController.m; sourceTree = "<group>"; };
+		B2510D5D1770F20900010FA5 /* InfoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoView.h; sourceTree = "<group>"; };
+		B2510D5E1770F20900010FA5 /* InfoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoView.m; sourceTree = "<group>"; };
+		B2510D5F1770F20900010FA5 /* StatsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatsView.h; sourceTree = "<group>"; };
+		B2510D601770F20900010FA5 /* StatsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StatsView.m; sourceTree = "<group>"; };
+		B2510D611770F20900010FA5 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		B2510D621770F20900010FA5 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +78,11 @@
 		B2338DF91770F01200586736 = {
 			isa = PBXGroup;
 			children = (
+				B2510D561770F20900010FA5 /* DowStocks.txt */,
+				B2510D571770F20900010FA5 /* Icon-72.png */,
+				B2510D581770F20900010FA5 /* Icon-72@2x.png */,
+				B2510D591770F20900010FA5 /* Icon.png */,
+				B2510D5A1770F20900010FA5 /* Icon@2x.png */,
 				B2338E0B1770F01200586736 /* IphoneCAPM */,
 				B2338E041770F01200586736 /* Frameworks */,
 				B2338E031770F01200586736 /* Products */,
@@ -83,6 +110,14 @@
 		B2338E0B1770F01200586736 /* IphoneCAPM */ = {
 			isa = PBXGroup;
 			children = (
+				B2510D5B1770F20900010FA5 /* InfoController.h */,
+				B2510D5C1770F20900010FA5 /* InfoController.m */,
+				B2510D5D1770F20900010FA5 /* InfoView.h */,
+				B2510D5E1770F20900010FA5 /* InfoView.m */,
+				B2510D5F1770F20900010FA5 /* StatsView.h */,
+				B2510D601770F20900010FA5 /* StatsView.m */,
+				B2510D611770F20900010FA5 /* TableViewController.h */,
+				B2510D621770F20900010FA5 /* TableViewController.m */,
 				B2338E141770F01300586736 /* AppDelegate.h */,
 				B2338E151770F01300586736 /* AppDelegate.m */,
 				B2338E1D1770F01300586736 /* MainStoryboard.storyboard */,
@@ -163,6 +198,11 @@
 				B2338E1A1770F01300586736 /* Default@2x.png in Resources */,
 				B2338E1C1770F01300586736 /* Default-568h@2x.png in Resources */,
 				B2338E1F1770F01300586736 /* MainStoryboard.storyboard in Resources */,
+				B2510D631770F20900010FA5 /* DowStocks.txt in Resources */,
+				B2510D641770F20900010FA5 /* Icon-72.png in Resources */,
+				B2510D651770F20900010FA5 /* Icon-72@2x.png in Resources */,
+				B2510D661770F20900010FA5 /* Icon.png in Resources */,
+				B2510D671770F20900010FA5 /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +216,10 @@
 				B2338E121770F01300586736 /* main.m in Sources */,
 				B2338E161770F01300586736 /* AppDelegate.m in Sources */,
 				B2338E221770F01300586736 /* ViewController.m in Sources */,
+				B2510D681770F20900010FA5 /* InfoController.m in Sources */,
+				B2510D691770F20900010FA5 /* InfoView.m in Sources */,
+				B2510D6A1770F20900010FA5 /* StatsView.m in Sources */,
+				B2510D6B1770F20900010FA5 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +342,7 @@
 				B2338E271770F01300586736 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
